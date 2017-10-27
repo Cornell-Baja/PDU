@@ -227,6 +227,10 @@ DocumentUniqueId=
 DocumentPath=Baja_DAQ_001.PcbDoc.htm
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Baja_PDU\Design Rule Check - Baja_PDU_004.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
